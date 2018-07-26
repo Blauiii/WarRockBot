@@ -1,0 +1,2 @@
+# WarRockBot
+Bot für WarRock
